@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+<h1 align="left">AUCTION BAY (SkillUp Mentor) 💸</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###
 
-## Available Scripts
+<h2 align="left">Description</h2>
 
-In the project directory, you can run:
+###
 
-### `npm start`
+<p align="left">This project is a full-stack auction web application that allows users to create and manage auction events. Registered users can create auction events by providing images, event titles, descriptions, starting prices, and auction durations. Bidders can participate in auctions, place bids, and monitor the status of their bids. Bids are incrementally increased until they reach the bidder's specified maximum bid. At the end of the auction period, the highest bid wins the item. Sellers have the capability to manage their auction events and view bidding histories.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+###
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h2 align="left">Features</h2>
 
-### `npm test`
+###
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="left">🧑 User Registration: Users can create accounts to access the platform.<br>📅 Event Creation: Registered users can create auction events by providing necessary details such as images, titles, descriptions, starting prices, and durations.<br>💵 Bidding: Bidders can participate in auctions, place bids, and monitor their bid status.<br>🤖Automatic Bid Increment: Bids are automatically increased incrementally until they reach the bidder's specified maximum bid.<br>🏁 Auction Conclusion: The highest bid at the end of the auction period wins the item.<br>📈 Seller Management: Sellers can manage their auction events and view bidding histories.</p>
 
-### `npm run build`
+###
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 align="left">Disclaimer</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+###
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="left">This assignment is protected by SkillUp Mentor copyright. The candidate may upload the assignment to their closed profile on GitHub or another platform, but any reproduction or distribution of the assignment or its solutions without written permission from SkillUp Mentor is strictly prohibited.</p>
 
-### `npm run eject`
+###
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<h2 align="left">Technologies</h2>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+###
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+</div>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+###
